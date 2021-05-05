@@ -2,8 +2,8 @@
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO CoelacanthStudios/coel
-    REF 0.1.0
-    SHA512 7b2bb7acb2a8ff07bff59cfa27247a7b2cced03828919cd65cc0c8cf1f724f5f1e947ed6992dcdbc913fb470694a52613d1861eaaadbf8903e94eb9cdfe4d000
+    REF 0.0.1
+    SHA512 9a0a90a4f1883fe7bfc5f9087a5bc4b0b68c6defcfe9cf05a21ab1aa415258cf3e8fbe105366772ae7e6cd1697139c124d47b9f7cdda3226c8a014caf2b7f420
     HEAD_REF master
 )
 
