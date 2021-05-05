@@ -1,6 +1,6 @@
 {
     "name": "coel",
-    "version-semver": "0.0.2",
+    "version-semver": "0.0.8",
     "description": "Coel is a Modern C++ multi-media library",
     "homepage": "https://github.com/CoelacanthStudios/coel"
 }
